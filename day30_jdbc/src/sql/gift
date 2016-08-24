@@ -1,0 +1,7 @@
+select * from gift;
+insert into gift(gno, gname, g_start, g_end)	values(100, '½ºÆÔ', 100, 500);
+
+select * from dept2;
+desc dept2;
+
+select * from kostaTable2;
